@@ -1,0 +1,6 @@
+﻿  network.cpp
+c:\users\nathan\dropbox\csci programs\shortestpath\shortestpath\network.cpp(138): warning C4018: '<' : signed/unsigned mismatch
+c:\users\nathan\dropbox\csci programs\shortestpath\shortestpath\network.cpp(217): warning C4018: '<' : signed/unsigned mismatch
+c:\users\nathan\dropbox\csci programs\shortestpath\shortestpath\network.cpp(304): warning C4715: 'Network::addCity' : not all control paths return a value
+c:\users\nathan\dropbox\csci programs\shortestpath\shortestpath\network.cpp(380): warning C4715: 'Network::addConnection' : not all control paths return a value
+  shortestpath.vcxproj -> C:\Users\Nathan\Dropbox\CSCI Programs\shortestpath\Debug\shortestpath.exe
